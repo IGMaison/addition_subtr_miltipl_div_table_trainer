@@ -1,0 +1,48 @@
+
+body {	
+	font-size:15px;
+}
+
+main {	
+	font-size:30px;	
+	margin: 0 10%;
+	
+}
+
+.task_name, .hdr, #start {
+	background: rgba(255, 255, 255, 0.8);
+	margin: 0 10%;
+}
+
+
+
+
+input { 
+	
+	font-size:20px;
+	width: 300px;
+}
+
+
+.numbers input {
+	width: 50px;
+
+}
+
+
+#bs {
+	
+	
+    
+    	width: auto;
+    	height: 95vh;
+
+}
+
+#cnt {
+	background: 0 0px url(https://thiscatdoesnotexist.com/) no-repeat  rgba(255, 255, 255, 0.7);
+	background-size: auto;	
+	margin: 0 auto;
+	max-width: 500px;
+	height: 90%;
+}
